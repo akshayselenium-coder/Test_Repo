@@ -1,6 +1,6 @@
 Class A
 {
-   public static void main(String ag[])
+   public static void mai(String ag[])
   {
 
     System.out.println("I am Akshay");
