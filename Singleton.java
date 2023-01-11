@@ -2,7 +2,7 @@ Class Singleton
 {
       public static void main(String ag[])
 {
-   A a1=A.getinstance();
+   A a1=A.Akshay();
    A a2=A.getinstance();
 }}
 
